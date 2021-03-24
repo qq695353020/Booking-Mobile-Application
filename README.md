@@ -4,8 +4,8 @@ Users can also find many globel travel guide that uploaded by other users on the
 # Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 # Installing
-*Download the files.
-*Open the files on your Visual Code or tools that you like the most.
+* Download the files.
+* Open the files on your Visual Code or tools that you like the most.
 # Running
 * Open the index.html and you are good to go.
 # Contributors
