@@ -1,5 +1,5 @@
 # Booking-Mobile-Application
-Booking-Mobile-Application is an app that created by Flex and it enables customers to book Hotel, Air tickets, Train tickets, Customized private tours and so on. Users can also find so many global travel guide that uploaded by other users on the app. and it's all free.
+Booking-Mobile-Application is an app that it enables customers to book Hotel, Air tickets, Train tickets, Customized private tours and so on. Users can also find so many global travel guide that uploaded by other users on the app. and it's all free.
 # Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 # Installing
