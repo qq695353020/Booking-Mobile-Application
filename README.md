@@ -7,5 +7,7 @@ These instructions will get you a copy of the project up and running on your loc
 * Open the files on your Visual Code or tools that you like the most.
 # Running
 * Open the index.html and you are good to go.
+# Note
+The existing app only realizes the external framework and visual effects, and cannot really order air tickets or hotels. This project is only used to practice code ability.
 # Contributors
 Menglong Yao(Oliver)
